@@ -1,0 +1,19 @@
+{
+  "name": "upstox-stock-api-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "protobufjs": "^7.5.3",
+    "upstox-js-sdk": "^2.19.0",
+    "uuid": "^11.1.0",
+    "ws": "^8.18.3"
+  }
+}
