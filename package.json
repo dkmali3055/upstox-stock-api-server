@@ -10,7 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "axios": "^1.11.0",
     "dotenv": "^17.2.1",
+    "node-fetch": "^3.3.2",
     "protobufjs": "^7.5.3",
     "upstox-js-sdk": "^2.19.0",
     "uuid": "^11.1.0",
